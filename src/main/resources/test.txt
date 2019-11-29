@@ -1,0 +1,7 @@
+one 1
+tony 15
+apul 24
+arkel 12
+yu 4
+one 20
+heng 2

@@ -1,0 +1,20 @@
+.gradle
+/build/
+/bin/
+/logs/
+/transaction-logs/
+/.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+/target/
+/.settings/
+/lib
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
