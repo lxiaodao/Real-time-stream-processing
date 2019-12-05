@@ -100,7 +100,7 @@ public class KafkaClient {
 	        // - 10.3.0.83:9092
 	       // - 10.3.0.82:9092
 	       // - 10.3.0.84:9092
-	        kafkaParams.put("bootstrap.servers", "10.3.0.83:9092,10.3.0.82:9092,10.3.0.84:9092");
+	        kafkaParams.put("bootstrap.servers", "10.3.0.83:9092,10.3.0.82:9092");
 	        kafkaParams.put("key.serializer", StringSerializer.class);
 	        kafkaParams.put("value.serializer", StringSerializer.class);
 	        kafkaParams.put("group.id", "fooGroup");
