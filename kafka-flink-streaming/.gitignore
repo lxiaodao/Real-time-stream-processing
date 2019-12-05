@@ -5,7 +5,7 @@
 /transaction-logs/
 /.gradle/
 !gradle/wrapper/gradle-wrapper.jar
-/target/
+/target
 /.settings
 /lib
 
