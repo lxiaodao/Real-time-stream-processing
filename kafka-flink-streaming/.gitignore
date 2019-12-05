@@ -6,7 +6,7 @@
 /.gradle/
 !gradle/wrapper/gradle-wrapper.jar
 /target/
-/.settings/
+/.settings
 /lib
 
 ### STS ###
